@@ -63,5 +63,7 @@ if __name__ == '__main__':
         print(f'Waiting {time_wait} in minutes.....')
         time.sleep(time_wait*60)
 
+print('thank you')        
+
 
 
